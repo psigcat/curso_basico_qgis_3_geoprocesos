@@ -3,7 +3,7 @@
 
 ### https://github.com/psigcat/curso_basico_qgis_3_geoprocesos
 
-## Tema 2 Composición de mapas
+## Tema 3 Geoprocesos. Análisi espacial
 https://cibernarium.barcelonactiva.cat/home
 
 #### Resumen del curso
