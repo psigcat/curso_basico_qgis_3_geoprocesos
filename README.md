@@ -1,7 +1,7 @@
 
 # Curso básico de QGIS
 
-### https://github.com/psigcat/curso_basico_qgis_3_geoprocesos
+## https://github.com/psigcat/curso_basico_qgis_3_geoprocesos
 
 ## Tema 3 Geoprocesos. Análisi espacial
 https://cibernarium.barcelonactiva.cat/home
@@ -17,7 +17,7 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
-### Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
+## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
 http://psig.es/Curs_QGIS_basic_C_geoprocesos.zip (117MB)
 
 #### Aprenderás a añadir ficheros CSV a QGIS
